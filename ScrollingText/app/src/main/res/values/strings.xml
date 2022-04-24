@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_subtitle">Article Subtitle</string>
+    <string name="article_text">Lorem ipsum article www.google.com\n\n
+<p>1. <b>Pellentesque</b> habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n
+    Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n\n
+<p>2. <b>Pellentesque</b> habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n
+    Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n\n
+<p>3. <b>Pellentesque</b> habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n
+    Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n\n
+<p>4. <b>Pellentesque</b> habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n
+    Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n\n
+<p>5. <b>Pellentesque</b> habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n
+    Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n\n
+<p>6. <b>Pellentesque</b> habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.\nVestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.\n
+    Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>\n\n
+
+    </string>
 </resources>
