@@ -3,7 +3,7 @@
 https://developer.android.com/courses/fundamentals-training/toc-v2
 
 ## Projects
-[HelloToast](#)
+[HelloToast](https://github.com/xenoplayed/android-java-fundmentals/tree/main/HelloToast)
 
 - [1.2 Part A: Your first interactive UI](https://developer.android.com/codelabs/android-training-layout-editor-part-a?index=..%2F..%2Fandroid-training#0)
 - [1.2 Part B: The layout editor](https://developer.android.com/codelabs/android-training-layout-editor-part-b?index=..%2F..%2Fandroid-training#0)
