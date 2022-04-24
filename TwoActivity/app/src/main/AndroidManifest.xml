@@ -10,17 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TwoActivity">
         <activity
-            android:name=".SecondActivity"
+            android:name="com.example.twoactivities.SecondActivity"
             android:exported="false"
             android:label="Second Activity"
-            android:parentActivityName=".MainActivity">
+            android:parentActivityName="com.example.twoactivities.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.twoactivity.MainActivity" />
+                android:value="com.example.twoactivities.MainActivity" />
         </activity>
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.twoactivities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
