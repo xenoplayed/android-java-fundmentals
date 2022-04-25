@@ -14,3 +14,5 @@ https://developer.android.com/courses/fundamentals-training/toc-v2
 
 [TwoActivity](https://github.com/xenoplayed/android-java-fundmentals/tree/main/TwoActivity)
 - [2.1: Activities and intents](https://developer.android.com/codelabs/android-training-create-an-activity?index=..%2F..%2Fandroid-training#0)
+- [2.2: Activity lifecycle and state](https://developer.android.com/codelabs/android-training-activity-lifecycle-and-state?index=..%2F..%2Fandroid-training#0)
+
