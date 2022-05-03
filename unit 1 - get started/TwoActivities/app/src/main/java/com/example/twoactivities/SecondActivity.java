@@ -34,4 +34,6 @@ public class SecondActivity extends AppCompatActivity {
         Log.d(LOG_TAG, "End SecondActivity");
         finish();
     }
+
+
 }
